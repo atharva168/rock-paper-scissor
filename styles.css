@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.row{
+    text-align: center;
+    margin-top: 50px;
+}
+h3, h2{
+    text-align: center;
+    margin: 5% 0;
+}
+body{
+    background-color: #66BFBF;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
